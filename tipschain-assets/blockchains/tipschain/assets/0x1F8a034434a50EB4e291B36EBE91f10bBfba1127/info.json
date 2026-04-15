@@ -1,0 +1,24 @@
+{
+  "name": "USD Tips",
+  "website": "https://tipschain.org",
+  "description": "USD Tips is a dollar-denominated ERC-20 token used across TipsChain payments and trading flows.",
+  "explorer": "https://scan.tipschain.online/token/0x1F8a034434a50EB4e291B36EBE91f10bBfba1127",
+  "type": "ERC20",
+  "symbol": "USDTC",
+  "decimals": 6,
+  "status": "active",
+  "id": "0x1F8a034434a50EB4e291B36EBE91f10bBfba1127",
+  "tags": [
+    "stablecoin"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.tipspay.org"
+    },
+    {
+      "name": "explorer",
+      "url": "https://scan.tipschain.online/token/0x1F8a034434a50EB4e291B36EBE91f10bBfba1127"
+    }
+  ]
+}

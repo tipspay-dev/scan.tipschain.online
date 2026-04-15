@@ -1,0 +1,41 @@
+{
+  "name": "TipsChain Default Tokens",
+  "timestamp": "2026-04-15T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://cdn.jsdelivr.net/gh/tipspay-dev/scan.tipschain.online@main/tipschain-assets/blockchains/tipschain/info/logo.png",
+  "keywords": [
+    "tipschain",
+    "tpc",
+    "wallet"
+  ],
+  "tokens": [
+    {
+      "chainId": 19251925,
+      "address": "0x1F8a034434a50EB4e291B36EBE91f10bBfba1127",
+      "name": "USD Tips",
+      "symbol": "USDTC",
+      "decimals": 6,
+      "logoURI": "https://cdn.jsdelivr.net/gh/tipspay-dev/scan.tipschain.online@main/tipschain-assets/blockchains/tipschain/assets/0x1F8a034434a50EB4e291B36EBE91f10bBfba1127/logo.png"
+    },
+    {
+      "chainId": 19251925,
+      "address": "0x9D41ed4Fc218Dd877365Be5C36c6Bb5Ec40eDa99",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://cdn.jsdelivr.net/gh/tipspay-dev/scan.tipschain.online@main/tipschain-assets/blockchains/tipschain/assets/0x9D41ed4Fc218Dd877365Be5C36c6Bb5Ec40eDa99/logo.png"
+    },
+    {
+      "chainId": 19251925,
+      "address": "0xd2E9DFeB41428f0F6f719A74551AE20A431FA365",
+      "name": "Wrapped Tips Coin",
+      "symbol": "WTPC",
+      "decimals": 18,
+      "logoURI": "https://cdn.jsdelivr.net/gh/tipspay-dev/scan.tipschain.online@main/tipschain-assets/blockchains/tipschain/assets/0xd2E9DFeB41428f0F6f719A74551AE20A431FA365/logo.png"
+    }
+  ]
+}

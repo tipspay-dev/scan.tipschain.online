@@ -1,0 +1,24 @@
+{
+  "name": "Wrapped Tips Coin",
+  "website": "https://tipschain.org",
+  "description": "Wrapped Tips Coin is the ERC-20 wrapped representation of native TPC used in liquidity and smart contract flows on TipsChain.",
+  "explorer": "https://scan.tipschain.online/token/0xd2E9DFeB41428f0F6f719A74551AE20A431FA365",
+  "type": "ERC20",
+  "symbol": "WTPC",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xd2E9DFeB41428f0F6f719A74551AE20A431FA365",
+  "tags": [
+    "wrapped"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.tipspay.org"
+    },
+    {
+      "name": "explorer",
+      "url": "https://scan.tipschain.online/token/0xd2E9DFeB41428f0F6f719A74551AE20A431FA365"
+    }
+  ]
+}

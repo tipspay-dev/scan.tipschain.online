@@ -1,0 +1,24 @@
+{
+  "name": "TipsChain",
+  "website": "https://tipschain.org",
+  "description": "TipsChain is an EVM-compatible blockchain in the Tipspay ecosystem, using TPC as the native gas coin for wallet, explorer, and DEX activity.",
+  "explorer": "https://scan.tipschain.online",
+  "rpc_url": "https://rpc.tipschain.org",
+  "symbol": "TPC",
+  "type": "coin",
+  "decimals": 18,
+  "status": "active",
+  "tags": [
+    "dapp"
+  ],
+  "links": [
+    {
+      "name": "website",
+      "url": "https://www.tipspay.org"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/tipspay-dev"
+    }
+  ]
+}
